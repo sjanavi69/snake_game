@@ -1,0 +1,26 @@
+#game{
+   
+    margin: 0 auto;
+  
+}
+p{
+    text-align: center;
+    color: bisque;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 0%;
+    color: chartreuse;
+}
+#board{
+    margin: 0 0 0 35%;
+}
+h3{
+    padding-left: 30%;
+    font-size: 26px;
+   color:chartreuse; }
+*{
+    background-color:black;
+}
